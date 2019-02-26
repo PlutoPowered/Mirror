@@ -37,9 +37,6 @@ repositories {
 }
 
 dependencies {
-
-
-    library fileTree(dir: 'libs', include: "*.jar")
 }
 //End Repositories and Dependencies
 
